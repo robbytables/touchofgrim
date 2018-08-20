@@ -81,6 +81,7 @@
     }
     .carousel-indicators {
       position: relative;
+      padding-top: $global-padding * 2;
       top: 100%;
       width: auto;
       left: 0;
